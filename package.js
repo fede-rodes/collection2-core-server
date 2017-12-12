@@ -1,6 +1,6 @@
 Package.describe({
   name: 'orcprogramming:collection2-core-server',
-  version: '0.0.2',
+  version: '0.0.3',
   // Brief, one-line summary of the package.
   summary: 'Server side only version of aldeed:collection2-core',
   // URL to the Git repository containing the source code for this package.
