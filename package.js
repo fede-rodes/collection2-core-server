@@ -1,9 +1,8 @@
 Package.describe({
   name: 'orcprogramming:collection2-core-server',
-  version: '0.0.1',
+  version: '0.0.2',
   // Brief, one-line summary of the package.
-  summary: `Wrapper around aldeed:collection2-core so that Collection2 is only
-  available server side`,
+  summary: `Server side only version of aldeed:collection2-core`,
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/fede-rodes/collection2-core-server.git',
   // By default, Meteor will default to using README.md for documentation.
