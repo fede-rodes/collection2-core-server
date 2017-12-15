@@ -1,6 +1,6 @@
 ## orcprogramming:collection2-core-server
-Wrapper around [aldeed:collection2-core](https://atmospherejs.com/aldeed/collection2-core) package so that Collection2 and
-simpl-schema don't get exported to your client bundle (47.1KB).
+Wrapper around [aldeed:collection2-core](https://atmospherejs.com/aldeed/collection2-core) to limit the scope of said package to the server. As a results, both Collection2 and
+simpl-schema are removed from the client bundle resulting in a saving of 47.1KB.
 
 ## Installation
 In your Meteor app directory, enter:
